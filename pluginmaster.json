@@ -12,13 +12,13 @@
             "utility"
         ],
         "InternalName": "InventoryTools",
-        "AssemblyVersion": "1.15.1.2",
+        "AssemblyVersion": "1.15.0.5",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 15,
         "RepoUrl": "https://github.com/RoefQwQ/InventoryTools",
         "IconUrl": "https://raw.githubusercontent.com/RoefQwQ/InventoryTools/main/InventoryTools/Images/icon.png",
-        "DownloadLinkInstall": "https://github.com/RoefQwQ/InventoryTools/releases/download/v1.15.1.2/InventoryTools.zip",
-        "DownloadLinkUpdate": "https://github.com/RoefQwQ/InventoryTools/releases/download/v1.15.1.2/InventoryTools.zip",
+        "DownloadLinkInstall": "https://github.com/RoefQwQ/InventoryTools/releases/download/v1.15.0.5/InventoryTools.zip",
+        "DownloadLinkUpdate": "https://github.com/RoefQwQ/InventoryTools/releases/download/v1.15.0.5/InventoryTools.zip",
         "DownloadCount": 0,
         "LastUpdate": "1779427044"
     }
